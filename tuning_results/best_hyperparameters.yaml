@@ -1,0 +1,9 @@
+# 5/5 iterations complete ✅ (4753.75s)
+# Results saved to /content/runs/segment/tune
+# Best fitness=1.44341 observed at iteration 3
+# Best fitness metrics are {'metrics/precision(B)': 0.97054, 'metrics/recall(B)': 0.87173, 'metrics/mAP50(B)': 0.93918, 'metrics/mAP50-95(B)': 0.79492, 'metrics/precision(M)': 0.98543, 'metrics/recall(M)': 0.85079, 'metrics/mAP50(M)': 0.92587, 'metrics/mAP50-95(M)': 0.64849, 'val/box_loss': 0.0798, 'val/seg_loss': 0.1507, 'val/cls_loss': 0.56098, 'val/dfl_loss': 0.72937, 'val/sem_loss': 0.0, 'fitness': 1.44341}
+# Best fitness model is /content/runs/segment/tune/weights
+lr0: 0.01
+lrf: 0.01
+box: 0.9
+cls: 0.54796
